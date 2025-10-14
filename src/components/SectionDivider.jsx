@@ -4,15 +4,15 @@ import { motion } from "framer-motion";
 export default function SectionDivider() {
   const brands = [
     "Apple",
-    "Samsung",
-    "OnePlus",
+    "acer",
+    "LG",
+    "Cp Plus",
+    "Canon",
     "Asus",
     "HP",
     "Dell",
     "Lenovo",
     "Sony",
-    "Realme",
-    "Xiaomi",
   ];
 
   return (

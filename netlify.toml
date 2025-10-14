@@ -1,5 +1,6 @@
 [build]
-  publish = "build"  # Change to "dist" if using Vue or Vite
+  command = "npm run build"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"

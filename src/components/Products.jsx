@@ -22,7 +22,7 @@ export default function Products() {
       image: leptop,
     },
     {
-      name: "Accessorry",
+      name: "Accessory",
       path: "/accessory",
       image: Accessorry,
     },

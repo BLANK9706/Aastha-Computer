@@ -11,7 +11,7 @@ export default function Navbar({ user }) {
     { name: "Laptop", path: "/laptop" },
     { name: "Monitor", path: "/monitor" },
     { name: "Printer", path: "/printer" },
-    { name: "Accessory", path: "/accessory" },
+    { name: "Accessories ", path: "/accessory" },
     { name: "Custom Pc", path: "/custompc" },
     { name: "CCTV", path: "/cctv" },
   ];

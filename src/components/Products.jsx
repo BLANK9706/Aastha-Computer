@@ -24,7 +24,7 @@ export default function Products() {
     {
       name: "Accessory",
       path: "/accessory",
-      image: Accessorry,
+      image: Accessories,
     },
     {
       name: "Custom Pc",

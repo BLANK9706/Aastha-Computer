@@ -43,7 +43,7 @@ function App() {
     return () => listener.subscription.unsubscribe();
   }, []);
 
-  return (
+  return  (
     <div className="scroll-smooth">
       <BrowserRouter>
         <ScrollToTop />
